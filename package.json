@@ -1,0 +1,46 @@
+{
+  "name": "humm",
+  "version": "3.2.2",
+  "private": true,
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "^3.0.1",
+    "@material-ui/lab": "^3.0.0-alpha.30",
+    "classnames": "^2.2.6",
+    "lodash": "^4.17.11",
+    "react": "latest",
+    "react-animated-slider": "^1.1.4",
+    "react-dom": "latest",
+    "react-json-view": "^1.19.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "latest",
+    "validatorjs": "^3.15.1"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.123",
+    "@types/react": "*",
+    "@types/react-dom": "*",
+    "@types/validatorjs": "^3.15.0",
+    "@types/classnames": "^2.2.7",
+    "@types/jest": "*",
+    "@types/node": "*",
+    "@types/react-router-dom": "^4.3.1",
+    "typescript": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
