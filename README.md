@@ -20,7 +20,6 @@ npm run start
 
 This example demonstrate how you can use [Create React App](https://github.com/facebookincubator/create-react-app) with [TypeScript](https://github.com/Microsoft/TypeScript).
 
-
 ## Directory Structure
 
 The sources of the project follows this structure:
@@ -46,9 +45,10 @@ The sources of the project follows this structure:
 ```
 
 ## Backend
+
 level
 
-1. login  and signup
+1. login and signup
 2. edit profile
 3. project
 4. team
